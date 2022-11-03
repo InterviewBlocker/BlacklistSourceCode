@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>qunliao</class>
+ <widget class="QWidget" name="qunliao">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>684</width>
+    <height>538</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <action name="qunliao_2">
+   <property name="icon">
+    <iconset resource="images.qrc">
+     <normaloff>:/image/屏幕截图 2022-10-26 224909.png</normaloff>:/image/屏幕截图 2022-10-26 224909.png</iconset>
+   </property>
+   <property name="text">
+    <string>加入组播</string>
+   </property>
+   <property name="toolTip">
+    <string>加入组播组</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

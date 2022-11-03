@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>temp</class>
+ <widget class="QWidget" name="temp">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>734</width>
+    <height>487</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <action name="action11">
+   <property name="icon">
+    <iconset>
+     <normaloff>:/image/b.jpg</normaloff>:/image/b.jpg</iconset>
+   </property>
+   <property name="text">
+    <string>11</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
