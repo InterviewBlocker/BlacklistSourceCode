@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/add.png</file>
+        <file>pic/AM.png</file>
+        <file>pic/backg.jpeg</file>
+        <file>pic/camera.png</file>
+        <file>pic/change.png</file>
+        <file>pic/clear.png</file>
+        <file>pic/data.png</file>
+        <file>pic/delete.png</file>
+        <file>pic/exit.png</file>
+        <file>pic/export.png</file>
+        <file>pic/find.png</file>
+        <file>pic/gate.png</file>
+        <file>pic/help.png</file>
+        <file>pic/in&amp;out.png</file>
+        <file>pic/in&amp;out_log.png</file>
+        <file>pic/light.png</file>
+        <file>pic/log.png</file>
+        <file>pic/login.png</file>
+        <file>pic/logo.ico</file>
+        <file>pic/N.8p8f8.jpg</file>
+        <file>pic/netwark.png</file>
+        <file>pic/netwark_blue.png</file>
+        <file>pic/netwark_white.png</file>
+        <file>pic/parking.png</file>
+        <file>pic/parking2.png</file>
+        <file>pic/past records.png</file>
+        <file>pic/pcar.png</file>
+        <file>pic/personalInfo.png</file>
+        <file>pic/record.png</file>
+        <file>pic/splash.gif</file>
+        <file>pic/switch.png</file>
+        <file>pic/U.88888.jpg</file>
+        <file>pic/user_manage.png</file>
+        <file>pic/warn.png</file>
+    </qresource>
+</RCC>
